@@ -1,3 +1,5 @@
+"""A class that can be used to represent a car."""
+
 class ModCar():
     def __init__(self, make, model, year):
         self.make = make
