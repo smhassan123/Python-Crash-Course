@@ -1,0 +1,3 @@
+In Python i can build classes.
+In Python i can build Functions.
+In Python i can run loops.
